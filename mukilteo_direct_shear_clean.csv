@@ -1,0 +1,4 @@
+normal_stress_psf,nominal_normal_stress_kpa,measured_normal_stress_kpa,shear_stress_kpa
+522.14,25,24.99,11.84
+1044.27,50,50.79,22.05
+2088.54,100,99.4,41.9
